@@ -1,0 +1,5 @@
+.add-to-cart-button {
+    @include font-style($default-font, 500, 1.4rem, 1.7rem, 0.3px, none, none);
+    border-radius: .4rem;
+    box-shadow   : 0 1rem 2rem 0 $button-shadow;
+}

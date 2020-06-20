@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { message } from 'antd';\nexport var errorMsg = function errorMsg(msg) {\n  message.error(msg);\n};","map":null,"metadata":{},"sourceType":"module"}

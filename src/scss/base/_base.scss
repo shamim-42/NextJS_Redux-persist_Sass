@@ -1,0 +1,11 @@
+html {
+    // By default 1rem = 16px. If we want to customize this in our way, we can.
+    // Let assume we want, 1 rem = 10px. Then
+    // 10px/16px = 62.5%
+    // We should set 'font-size: 62.5%'.
+    font-size: 100%;
+}
+
+body {
+    box-sizing: border-box;
+}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default {\n  env: \"production\",\n  mode: process.env.MODE,\n  api: process.env.API\n};","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const POST_USER = 'POST_USER';\nexport const CREATE_USER = 'CREATE_USER';\nexport const postUser = user => {\n  return {\n    type: POST_USER,\n    user\n  };\n};","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,13 @@
+{
+  "name": "next.js boilerplate",
+  "public": true,
+  "version": 1,
+  "builds": [{
+    "src": "next.config.js",
+    "use": "@now/next"
+  }],
+  "alias": "nextjs-boiler",
+  "env": {
+    "GITHUB_API_ENDPOINT": "https://api.github.com"
+  }
+}

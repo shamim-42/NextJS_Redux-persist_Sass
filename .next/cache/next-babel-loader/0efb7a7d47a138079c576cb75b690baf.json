@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var POST_USER = 'POST_USER';\nexport var postUser = function postUser(user) {\n  return {\n    type: POST_USER,\n    user: user\n  };\n};","map":null,"metadata":{},"sourceType":"module"}

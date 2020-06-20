@@ -1,0 +1,35 @@
+@keyframes spin {
+  0% {
+    transform: rotate(0deg); }
+  100% {
+    transform: rotate(360deg); } }
+
+html {
+  font-size: 100%; }
+
+body {
+  box-sizing: border-box; }
+
+body {
+  font-family: "Butler_Regular", sans-serif;
+  font-size: 1rem;
+  line-height: 1.53;
+  color: #2d2291; }
+
+.add-to-cart-button {
+  font-family: "Butler_Regular", sans-serif;
+  font-weight: 500;
+  font-size: 1.4rem;
+  line-height: 1.7rem;
+  letter-spacing: 0.3px;
+  color: none;
+  text-align: none;
+  border-radius: .4rem;
+  box-shadow: 0 1rem 2rem 0 rgba(49, 55, 77, 0.07); }
+
+.dataBox {
+  background-color: #f8f8f8;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
